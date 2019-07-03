@@ -12,6 +12,6 @@
 For this project I used [JSON-server](https://github.com/typicode/json-server) to expose a REST API based on a JSON file.
 In this way you can do create, update and delete statements and you will be able to see the changes in the JSON file
 
-Data are stored in: db.json
+Data are stored in: [db.json](https://github.com/Hbuz/list-users/blob/develop/db.json)
 
 To install JSON-server: ```$ npm install json-server```
