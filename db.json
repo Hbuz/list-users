@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mario Rossi",
+      "date": "30-07-1980",
+      "email": "mario.rossi@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "Luigi Bianchi",
+      "date": "04-08-1967",
+      "email": "luigi.bianchi@mail.com"
+    },
+    {
+      "id": 3,
+      "name": "John Smith",
+      "date": "09-09-2000",
+      "email": "john.smith@mail.com"
+    },
+    {
+      "id": 4,
+      "name": "Mark Goodman",
+      "date": "01-02-1976",
+      "email": "mark.goodman@mail.com"
+    },
+    {
+      "id": 5,
+      "name": "Michael Scott",
+      "date": "31-12-1969",
+      "email": "michael.scott@mail.com"
+    }
+  ]
+}
